@@ -45,33 +45,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CacheAlgorithm/src/main/java/com/hit/algorithm/SecondChance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="124">
+              <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CacheAlgorithm/src/main/java/com/hit/algorithm/LRUAlgoCacheImpl.java">
+        <entry file="file://$PROJECT_DIR$/../Memory-Management-Unit-Simmulator-master/MMUProject/src/main/java/com/hit/algorithm/LFUAlgoCacheImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="66" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="66" />
-              <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Memory-Management-Unit-Simmulator-master/MMUProject/src/main/java/com/hit/algorithm/SecondChanceAlgoCacheImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -102,6 +95,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -121,6 +117,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -168,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543782092763" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544026015654" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -258,8 +255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CacheAlgorithm/src/main/java/com/hit/algorithm/LRUAlgoCacheImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="66" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="66" />
+        <state relative-caret-position="17">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#177#178#0" expanded="true" />
@@ -286,18 +283,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Memory-Management-Unit-Simmulator-master/MMUProject/src/main/java/com/hit/algorithm/LFUAlgoCacheImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Memory-Management-Unit-Simmulator-master/MMUProject/src/main/java/com/hit/algorithm/SecondChanceAlgoCacheImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CacheAlgorithm/src/main/java/com/hit/algorithm/SecondChance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="124">
+          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
         </state>
       </provider>
     </entry>
