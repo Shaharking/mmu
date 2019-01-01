@@ -6,7 +6,6 @@ public class SecondChance<K, V> extends AbstractAlgoCache<K, V> {
 
     protected LinkedHashMap<K, V> m_Cache;
     protected LinkedHashMap<K, Boolean> m_ReferenceBit;
-    protected int capcity;
 
     public SecondChance(int capacity) {
         super(capacity);
@@ -35,7 +34,7 @@ public class SecondChance<K, V> extends AbstractAlgoCache<K, V> {
     public V putElement(K key, V value) {
         V returnedValueElement = null;
         if (!m_Cache.containsKey(key)) {
-            if (m_Cache.size() == capcity) {
+            if (m_Cache.size() == capacity) {
                 returnedValueElement = removeElementByPolicy();
             }
             m_Cache.put(key, value);
